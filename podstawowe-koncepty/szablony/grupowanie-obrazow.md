@@ -1,0 +1,2 @@
+# Grupowanie obrazów
+
