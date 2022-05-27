@@ -29,3 +29,9 @@ Gotowe! Urządzenie powinno być już dostępne do użytku. Warto je dodać do g
 {% content-ref url="../podstawowe-koncepty/szablony/grupowanie-obrazow.md" %}
 [grupowanie-obrazow.md](../podstawowe-koncepty/szablony/grupowanie-obrazow.md)
 {% endcontent-ref %}
+
+Natomiast ilość portów sieciowych w dziale `Edycja szablonów`:
+
+{% content-ref url="../podstawowe-koncepty/szablony/edycja-szablonow.md" %}
+[edycja-szablonow.md](../podstawowe-koncepty/szablony/edycja-szablonow.md)
+{% endcontent-ref %}
